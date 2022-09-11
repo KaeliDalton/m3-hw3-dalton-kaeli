@@ -2,4 +2,4 @@
 
 ## Screenshot of Lighthouse SEO and Accessibility Result
 
-![Screenshot of Lighthouse SEO and Accessibility Result](/Images/ScreenShot.png)
+![Screenshot of Lighthouse SEO and Accessibility Result](/Images/ScreenShot-Final.png)
